@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/A/Documents/Unreal Projects/ZeroGbyNik 5.1/ZeroGbyNik/Content/Blueprints/BP_MotionController.uasset",
+				"C:/Users/A/Documents/Unreal Projects/ZeroGbyNik/ZeroGbyNik/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/A/Documents/Unreal Projects/ZeroGbyNik/ZeroGbyNik/Content/Blueprints/Update/GrabGravityObject.uasset",
+				"C:/Users/A/Documents/Unreal Projects/ZeroGbyNik/ZeroGbyNik/Content/Blueprints/Update/VR-Zero_G-Pawn.uasset",
+				"C:/Users/A/Documents/Unreal Projects/ZeroGbyNik/ZeroGbyNik/Content/Map1.umap",
+				"C:/Users/A/Documents/Unreal Projects/ZeroGbyNik/ZeroGbyNik/Content/Blueprints/BP_MotionController.uasset"
+			]
+		}
+	]
+}
