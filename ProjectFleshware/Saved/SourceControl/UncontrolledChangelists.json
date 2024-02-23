@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/daago/Documents/Unreal Projects/ProjectFleshware/ProjectFleshware/Content/Blueprints/MotionControllerPawn.uasset",
+				"C:/Users/daago/Documents/Unreal Projects/ProjectFleshware/ProjectFleshware/Content/Blueprints/BP_MotionController.uasset",
 				"C:/Users/A/Documents/Unreal Projects/ProjectFleshware/ProjectFleshware/Content/Geometry/Materials/Grid-Art/Materials/TechArt/MF_LDGrid_Triplanar.uasset",
 				"C:/Users/A/Documents/Unreal Projects/ProjectFleshware/ProjectFleshware/Content/Geometry/Materials/Grid-Art/Textures/T_Grid.uasset",
 				"C:/Users/A/Documents/Unreal Projects/ProjectFleshware/ProjectFleshware/Content/Geometry/Materials/Grid-Art/Materials/M_LDGrid_Base.uasset",
