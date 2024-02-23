@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/daago/Documents/Unreal Projects/ZeroGProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/daago/Documents/Unreal Projects/ZeroGProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/daago/Documents/Unreal Projects/ZeroGProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/daago/Documents/Unreal Projects/ZeroGProject/Content/VRTemplate/Blueprints/GrabComponent.uasset"
+			]
+		}
+	]
+}
