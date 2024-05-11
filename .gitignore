@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+ProjectFleshware/Intermediate/
+
+ProjectFleshware/Saved/Config/
+
+ProjectFleshware/Saved/Logs/
+
+ProjectFleshware/Saved/
